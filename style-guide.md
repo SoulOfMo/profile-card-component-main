@@ -21,7 +21,8 @@ Dark gray: hsl(0, 0%, 59%)
 
 ## Typography
 
-### Body Copy
+git config --global user.name "Your Name"
+   git config --global user.email "your_email@example.com"
 
 - Font size (name and stats): 18px
 
